@@ -17,3 +17,5 @@ https://laraveldaily.com/quick-start-laravel-5-5-vue-js-simple-crud-project/
 ### Usando vue-router com Laravel
 https://medium.com/@piethein/how-to-combine-vuejs-router-with-laravel-1226acd73ab0
 
+### "Filtro" de busca usando Vue (Fuzzaldrin-plus)
+https://alligator.io/vuejs/vue-client-side-search/
