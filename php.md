@@ -19,3 +19,6 @@ https://medium.com/@piethein/how-to-combine-vuejs-router-with-laravel-1226acd73a
 
 ### "Filtro" de busca usando Vue (Fuzzaldrin-plus)
 https://alligator.io/vuejs/vue-client-side-search/
+
+### Passando dados de Laravel para Vue (sem usar API, apenas convertendo dados para JSON)
+https://medium.com/@m_ramsden/passing-data-from-laravel-to-vue-98b9d2a4bd23
