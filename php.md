@@ -58,8 +58,20 @@ https://medium.com/@m_ramsden/passing-data-from-laravel-to-vue-98b9d2a4bd23
 
 ## Vuex
 
+### WTF is Vuex? (Ótimo pra entender como ele surgiu e o que ele faz)
+https://medium.com/js-dojo/vuex-for-the-clueless-the-missing-primer-on-vues-application-data-store-33fa51ffc3af
+
 ### Introdução a Vuex
 https://alligator.io/vuejs/intro-to-vuex/
+
+### Entendendo states, getters/setters, mutations e actions no Vuex (MUITO BOM!!!)
+https://medium.com/dailyjs/mastering-vuex-zero-to-hero-e0ca1f421d45
+
+## Outro artigo introdutório muito bom (em português)
+https://blog.codecasts.com.br/estados-com-vue-js-data-computed-props-e-store-d8c6da4627ca
+
+### Um pouco mais de detalhe nos getters
+https://codeburst.io/vuex-getters-are-great-but-dont-overuse-them-9c946689b414
 
 ### Carrinho de compras persistente usando Vuex e localStorage (usei como base para o da Celebrar)
 http://voerro.com/blog/simple-persistent-shopping-cart-implementation-with-vue.js-2-and-vuex-in-laravel-5.6-pt.2
